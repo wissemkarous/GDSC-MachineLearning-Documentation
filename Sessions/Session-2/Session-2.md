@@ -8,6 +8,15 @@ It is a crucial tool in the data scientist's arsenal, serving several critical p
 	1- A compiled language is converted into machine code so that the processor can execute it, as c,c++,pascal
  2- An interpreted language is a language in which the implementations execute instructions directly without earlier compiling a program into machine language.
     like python ,java,javascool 
+## kernel for python and OS kernel :
+Kernels are processes that run independently and interact with JupyterLab. 
+ipykernel provides the IPython kernel for Jupyter,
+which provides an interactive Python development environment.
+Kernels in JupyterLab allow the use of different Python versions and virtual environments.
+
+kernel(os) :
+kernel connects application software to the hardware of a computer
+A full kernel controls all hardware resources
 ## 1. Enhancing Understanding
 Data visualization helps us bridge the gap between raw, complex datasets and human comprehension. Through visual forms, we can represent data in a way that's intuitive and easier to grasp, making it more accessible to both technical and non-technical audiences. This visual translation aids in the identification of patterns, trends, and anomalies within the data.
 
